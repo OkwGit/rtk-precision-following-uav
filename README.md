@@ -6,7 +6,7 @@ The system uses:
 - **UM982 RTK (Base + Air Rover + Ground Rover)**  
 - **Pixhawk 6C Mini flight controller**  
 - **ArduPilot firmware**  
-- **LoRa/BLE differential data link**  
+- **LoRa/BLE differential data link**  （YET TO BE DEVELOPED）
 - **Ground Rover + Air Rover dual-rover architecture**
 
 ### 🔹 RTK Positioning (CM-Level Accuracy)  
@@ -26,7 +26,7 @@ The system uses:
 - ELRS for RC link (Radiomaster Pocket)
 
 ### 🔹 Hardware Integration  
-- Pixhawk 6C Mini  
+- Pixhawk 6C Mini  (TYPE A)
 - PM06 Power Module  
 - Custom RTK Rover wiring harness  
 - Optional payload: 300g lighting module or flash
